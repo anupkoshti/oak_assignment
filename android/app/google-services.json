@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080298564526",
+    "project_id": "assignment-oak-anup",
+    "storage_bucket": "assignment-oak-anup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080298564526:android:fec604d40fef2e5957b63f",
+        "android_client_info": {
+          "package_name": "com.example.anup_oak_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080298564526-m027g91aid4j66a9vbvc21ftd7tmkspa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn-KawgQDpZSsPaZjFTrqusy3A2E_HGJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080298564526-m027g91aid4j66a9vbvc21ftd7tmkspa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
